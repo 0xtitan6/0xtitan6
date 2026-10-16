@@ -12,6 +12,7 @@
 - Kaleidoscope: OpenRouter for GPU compute. Buy, hedge, and resell compute through one MCP gateway.
 - Quorra: autonomous trading agents running live capital on Hyperliquid, Polymarket, and Sui. Includes [Hyper-Trader](https://github.com/0xtitan6/Hyper-Trader).
 - [polymarket-mm](https://github.com/0xtitan6/polymarket-mm): Avellaneda-Stoikov market maker for Polymarket.
+- [synthesis-cli](https://github.com/0xtitan6/synthesis-cli): trade Synthesis prediction markets from the terminal on Polygon and Solana. Single Go binary.
 - [Vita](https://github.com/0xtitan6/Vita): pharma supply-chain tracking on an Arbitrum Orbit L3 that catches counterfeits.
 
 **On the workbench:** a DIY airgapped hardware wallet with Ika MPC, and research on GPU compute as DeFi collateral.
