@@ -15,7 +15,7 @@
 - [synthesis-cli](https://github.com/0xtitan6/synthesis-cli): trade Synthesis prediction markets from the terminal on Polygon and Solana. Single Go binary.
 - [Vita](https://github.com/0xtitan6/Vita): pharma supply-chain tracking on an Arbitrum Orbit L3 that catches counterfeits.
 
-**On the workbench:** a DIY airgapped hardware wallet with Ika MPC, and research on GPU compute as DeFi collateral.
+**On the workbench:** building Receiptz a fact-checking agent you can tag on X and a DIY airgapped hardware wallet with Ika MPC
 
 **Utility belt:** Solidity, Python, Go, TypeScript, Java, Daml.
 
