@@ -7,7 +7,7 @@
 - ETHChicago 2023: Arbitrum prize, for Vita
 
 **Cases closed**
-- [Receiptz](https://github.com/0xtitan6/Recieptz): fact-checking agent you tag on X. Three AI labs judge the claim against primary sources, and the verdict is locked on NEAR before it's posted, so every receipt is verifiable. Built at NEAR Hackathon 2026.
+- [Receiptz](https://github.com/0xtitan6/Recieptz): fact-checking agent you tag on X. Three AI labs judge the claim against primary sources, and the verdict is locked on NEAR before it's posted, so every receipt is verifiable.
 - [ClosingBell](https://github.com/0xtitan6/ClosingBell-Hook): Uniswap v4 hook that raises fees when the stock market closes, so arbs can't prey on LPs in tokenized-stock pools.
 - [Pavo](https://github.com/0xtitan6/Pavo): P2P fixed-rate lending against anything with a price feed: BTC, RWAs, even GPU compute-hours.
 - [Kaleidoscope](https://x.com/0xtitan6/status/2109347492252831768?s=20) : OpenRouter for GPU compute. Buy, hedge, and resell compute through one MCP gateway.
